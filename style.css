@@ -70,6 +70,7 @@ p{
 
 }
 
-.recipies{
-    display:table; width: 100%;;
+#last{
+
+    float: left;
 }
